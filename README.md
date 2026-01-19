@@ -55,19 +55,16 @@ Pro tip: Use emoji to make sections scannable — keep them consistent across th
 
 (If you prefer a different theme, replace `theme=radical` with `dark`, `solarized-light`, etc.)
 
----
 
-## 🏆 Highlights / Achievements
-- ✨ Built and launched [Project One](https://github.com/hemangkrish7/project-one) used by X users
-- 🛠️ Contributed to [Open Source Project](https://github.com/some/repo) — implemented feature Y
-- 🎓 Completed relevant certifications or courses (list them)
+
+
 
 ---
 
 ## 📫 How to reach me
-- Email: your-email@example.com  
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)  
-- LinkedIn: https://www.linkedin.com/in/yourprofile
+- Email: hemangkrish7@gmailcom  
+ 
+- LinkedIn: https://www.linkedin.com/in/hemang-krish-a739a1229/
 
 ---
 
