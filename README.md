@@ -41,11 +41,10 @@ Pro tip: Use emoji to make sections scannable — keep them consistent across th
 ---
 
 ## 🔗 Quick links
-- Portfolio / Website: https://your-site.example
-- Email: your-email@example.com
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/yourprofile)
-- Resume: https://your-site.example/resume.pdf
+- Portfolio / Website: https://portfolio-github-io-ten.vercel.app/
+- Email: hemangkrish7@gmail.com
+- LinkedIn: [HEMANG KRISH](https://www.linkedin.com/in/hemang-krish-a739a1229/)
+- Resume: 
 
 ---
 
@@ -68,9 +67,7 @@ Pro tip: Use emoji to make sections scannable — keep them consistent across th
 
 ---
 
-## 📸 Media & Demos
-Add images or GIFs of your projects in an /images directory and reference them like:
-![project demo](./images/project-one-demo.gif)
+
 
 ---
 
