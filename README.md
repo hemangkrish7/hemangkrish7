@@ -16,9 +16,8 @@ I'm a software developer who builds web apps, developer tools, and open-source p
 ## 💼 Work & Projects
 Here are some of my notable projects — replace the placeholders with your real project names, descriptions, and links.
 
-- 🔸 [Project One](https://github.com/hemangkrish7/project-one) — Short one-line description. Tech: React, Node.js.  
-  Role: Lead dev — built auth, API, and CI/CD.
-
+- 🔸 [Data Scientist Salary Prediction](https://github.com/hemangkrish7/Data_Scientist_Salary_Prediction) — 
+This project helps data scientist/analyst to negotiate their income for an existing or a new job
 - 🔸 [Project Two](https://github.com/hemangkrish7/project-two) — Short one-line description. Tech: Next.js, TypeScript.  
   Role: Full-stack dev — implemented server-side rendering and optimizations.
 
